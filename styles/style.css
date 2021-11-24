@@ -108,7 +108,7 @@ body {
 
 .change {
   position: absolute;
-  left: 68px;
+  left: 60px;
   top: 204px;
 }
 .change .gen_set {
@@ -162,7 +162,7 @@ body {
   display: inline-block;
   width: 27px;
   height: 27px;
-  margin-right: 64.5px;
+  margin-right: 56px;
   cursor: pointer;
   background-image: url(../assets/27px_sp.svg);
 }

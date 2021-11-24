@@ -249,7 +249,7 @@ body {
 .pallete .pallete_inset .colorTxt {
   font-size: 14px;
   font-weight: 500;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   line-height: 14px;
   padding-left: 10px;
   color: white;
